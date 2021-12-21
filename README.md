@@ -24,6 +24,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##about it
+```
 Desarrollar una plataforma web que cumpla los siguientes requerimientos:
 
 Requerimientos funcionales:
@@ -44,3 +45,4 @@ Requerimientos técnicos:
 •	Aplique el uso de servicios para poder reutilizar el backend en los proyectos de la misma aplicación para móvil
 •	Si es posible implemente la vista separada del backend
 •	Realice el desarrollo en Python and Nuxt.js, Vue.js o Node.js
+```
